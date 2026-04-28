@@ -13,3 +13,4 @@ Features
 - Career goals section
 - Footer with academic details
 - Clean and simple layout
+<img width="1920" height="1080" alt="Screenshot 2026-04-28 145927" src="https://github.com/user-attachments/assets/ad8d60bc-ac2b-4158-a379-fb672696a3be" />
